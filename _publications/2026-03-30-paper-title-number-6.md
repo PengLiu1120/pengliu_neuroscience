@@ -6,8 +6,7 @@ permalink: /publication/2026-03-30-paper-title-number-6
 excerpt: ''
 date: 2026-03-30
 venue: 'Imaging Neuroscience'
-paperurl: 'https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1210/136083/Modeling-2D-Spatio-Tactile-Population-Receptive'
-#paperurl: 'https://github.com/PengLiu1120/pengliu/blob/1d884a91e427fa96ef00598976e5084380e9bdcf/files/paper4.pdf'
+paperurl: 'https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1210/136083/Modeling-2D-spatio-tactile-population-receptive'
 citation: 'Stoll, S., Luesebrink, F., Schwarzkopf, D. S., Mattern, H., Liu, P., Noelle, J., & Kuehn, E. (2026). Modeling 2D spatio-tactile population receptive fields of the fingertip in human primary somatosensory cortex. Imaging Neuroscience.'
 ---
 
