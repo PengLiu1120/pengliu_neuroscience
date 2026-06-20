@@ -8,4 +8,4 @@ date: 2024-06-23
 location: "Seoul, South Korea"
 ---
 
-[More information here](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1)
+[More information here](https://www.humanbrainmapping.org/)
