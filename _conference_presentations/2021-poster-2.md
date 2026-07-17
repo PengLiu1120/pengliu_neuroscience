@@ -8,4 +8,4 @@ date: 2021-06-21
 location: "Virtual"
 ---
 
-[More information here](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4054)
+[More information here](https://www.humanbrainmapping.org/)
