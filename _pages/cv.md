@@ -36,6 +36,29 @@ Employment and Education Experience
   * Harbin Normal University, China
   * **Degree:** B.Sc.
 
+Fellowships and Awards
+======
+* 01.2026 – Present: **Hertie Network of Excellence in Clinical Neuroscience Fellowship**
+  * Gemeinnützige Hertie-Stiftung, Funding 247,500 €
+
+Awards
+======
+  <ul>{% for post in site.awards reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Invited Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Professional Affiliations and Memberships
 ======
 * 03.2025 – Present: **Technology and Commerce Association of Chinese in Germany (TeCAC e.V. )**
@@ -48,6 +71,11 @@ Professional Affiliations and Memberships
 * 03.2021 – Present: **The Organization for Human Brain Mapping (OHBM)**
   * Member
 
+Science Communications and Outreach
+======
+* 11.2024 – 06.2025: **Pint of Science Deutschland**
+  * Team Tübingen, Event manager
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -58,22 +86,4 @@ Conference Presentations
 ======
   <ul>{% for post in site.conference_presentations reversed %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Awards
-======
-  <ul>{% for post in site.awards reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Invited Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
